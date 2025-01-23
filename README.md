@@ -31,3 +31,6 @@ Se debe aclarar que el codigo esta incompleto
 no logré finalizar y que realizara todo
 logro guardar los turno en mi base de datos pero no logré mostrar en pantalla 
 asi como la lista de tramites tuve que crearla manualmente para que me dejara seleccionarlas
+
+
+los archivos se encuentran en la rama master
