@@ -33,4 +33,5 @@ logro guardar los turno en mi base de datos pero no logré mostrar en pantalla
 asi como la lista de tramites tuve que crearla manualmente para que me dejara seleccionarlas
 
 
-los archivos se encuentran en la rama master
+los archivos se encuentran en la rama master asi como la imagen de las tablas
+esa era la intencion en un principio pero todo se fue deshaciendo conforme se acabo el tiempo
